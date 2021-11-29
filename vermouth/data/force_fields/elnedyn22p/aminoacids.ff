@@ -75,7 +75,7 @@ VAL                1
 [ atoms ]
 ;id type resnr residu atom cgnr   charge
  1   P5   1     VAL     BB     1      0    
- 2   AC2  1     VAL     SC1    2      0    
+ 2   C2  1     VAL     SC1    2      0    
 
 [constraints]
 ;  i     j   funct   length  
@@ -91,7 +91,7 @@ LEU                1
 [ atoms ]
 ;id type resnr residu atom cgnr   charge
  1   P5   1     LEU     BB     1      0    
- 2   AC1  1     LEU     SC1    2      0    
+ 2   C1  1     LEU     SC1    2      0    
 
 [constraints]
 #meta {"group": "Side chain bonds"}
@@ -108,7 +108,7 @@ ILE                1
 [ atoms ]
 ;id type resnr residu atom cgnr   charge
  1   P5   1     ILE     BB     1      0    
- 2   AC1  1     ILE     SC1    2      0    
+ 2   C1  1     ILE     SC1    2      0    
 
 [bonds]
 #meta {"group": "Side chain bonds"}
